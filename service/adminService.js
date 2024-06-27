@@ -1,0 +1,1 @@
+//admin isek yönlendirme
